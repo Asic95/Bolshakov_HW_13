@@ -3,7 +3,7 @@ package Home_work_13;
 public class Additional {
     public static void main(String[] args) {
 
-        String[] myArray = {"A", "B", "C", "D", "E", "F", "G", "H", "J", "K"};
+        String[] myArray = {"A1", "B1", "C1", "D1", "E1", "F1", "G1", "H1", "J1", "K1"};
         String[] myArray2 = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10"};
 
         System.out.println("\n");
